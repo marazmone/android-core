@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AndroidCore</string>
+    <string name="button_toast">Toast</string>
+    <string name="toast_short">Short</string>
+    <string name="toast_long">Long</string>
+    <string name="toast_custom">Custom</string>
+    <string name="toast_text">Test text</string>
+    <string name="toast_custom_gravity">Gravity</string>
+    <string name="custom_toast">Attention!</string>
 </resources>
