@@ -14,7 +14,7 @@ Be able to schedule a background task using JobScheduler
 
 Resources:<br/>
 [Android Developers -> Toasts](https://developer.android.com/guide/topics/ui/notifiers/toasts)<br/>
-[Android Developers -> Snackbar](https://developer.android.com/reference/android/support/design/widget/Snackbar)<br/>
+[Android Developers -> Snackbar](https://developer.android.com/reference/com/google/android/material/snackbar/Snackbar)<br/>
 [Android Developers -> Localize your app](https://developer.android.com/guide/topics/resources/localization)<br/>
 [Android Developers -> Application fundamentals](https://developer.android.com/guide/components/fundamentals)<br/>
 [Android Developers -> Create a notification](https://developer.android.com/training/notify-user/build-notification)<br/>
